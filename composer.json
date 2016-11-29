@@ -1,6 +1,6 @@
 {
-    "name": "amphp/thread",
-    "homepage": "https://github.com/amphp/thread",
+    "name": "robertonetresults/thread",
+    "homepage": "https://github.com/robertonetresults/thread",
     "description": "Non-blocking thread pool task dispatch",
     "keywords": [
         "async",
